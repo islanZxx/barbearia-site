@@ -6,5 +6,5 @@ CSS3
 Layout Responsivo
 🎯 Objetivo
 Criar um modelo de site adaptável para barbearias e estabelecimentos similares, com foco em apresentação de serviços e captação de clientes.
-🌐 Acesse o projeto
-(Link do GitHub Pages)
+🌐 Acesse o projeto:
+(https://islanzxx.github.io/barbearia-site/)
